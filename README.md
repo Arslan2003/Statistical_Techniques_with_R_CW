@@ -4,7 +4,7 @@
 
 <br>
 
-## Overview
+## 📖 Overview
 
 This project demonstrates how to perform statistical hypothesis testing and distribution fitting in R using simulated experimental datasets.  
 It focuses on:
@@ -19,28 +19,36 @@ The project serves as a hands-on example for researchers, students, or data enth
 
 <br>
 
-## Project Diagrams
+## 📊 Results
 
 **Density Plots**  
 _Compare the "before" and "after" treatment distributions for mice and rats_  
 
-![Density Plot Mice](images/mice_density.png)  
-![Density Plot Rats](images/rats_density.png)  
-
-**Boxplots**  
-_Visual summary of weight changes due to treatment_  
-
-![Boxplot Mice](images/mice_boxplot.png)  
-![Boxplot Rats](images/rats_boxplot.png)  
-
-**Distribution Fitting**  
-_Comparison of fitted Weibull, Lognormal, and Gamma distributions for rats_  
-
-![Distribution Fitting](images/rats_distribution_fitting.png)  
+<div style="display: flex; align-items: flex-start;">
+  <img src="assets/mice_density.png" alt="Density Plot Mice" width="49%"/>
+  <img src="assets/rats_density.png" alt="Density Plot Rats" width="49%"/>
+</div>
 
 <br>
 
-## Installation & Usage
+**Boxplots**  
+_Visual summary of weight changes due to treatment_
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="assets/mice_boxplot.png" alt="Boxplot Mice" width="49%"/>
+  <img src="assets/rats_boxplot.png" alt="Boxplot Rats" width="49%"/>
+</div>
+
+<br>
+
+**Distribution Fitting**  
+_Comparison of fitted Weibull, Lognormal, and Gamma distributions for rats_
+
+<img src="assets/rats_distribution_fitting.png" alt="Distribution Fitting" width="600"/>
+
+<br>
+
+## ⚙️ Installation & Usage
 
 1. Ensure you have **R** installed (version 4.0+ recommended) and install the required packages:
 
@@ -60,20 +68,20 @@ source("statistical_hypothesis_testing.R")
 
 <br>
 
-## Contribution
+## 🤝 Contribution
 Contributions, suggestions, and improvements are welcome! Feel free to open an issue or submit a pull request.
 
 <br>
 
-## Author
-[Arslonbek Ishanov](https://github.com/Arslan2003) - First-Class Data Science Graduate.
+## 🧑‍💻 Author
+[Arslonbek Ishanov](https://github.com/Arslan2003) - First-Class Data Science Graduate & AI/ML Enthusiast.
 
 <br>
 
-## License
+## ⚖️ License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <br>
 
-## Learn More
-Read the detailed report explaining thee underlying theory, methodology, and results [here](Statistical_Hypothesis_Testing-Report.pdf).
+## 🔗 Learn More
+Read the detailed report explaining the underlying theory, methodology, and results [here](Statistical_Hypothesis_Testing-Report.pdf).
