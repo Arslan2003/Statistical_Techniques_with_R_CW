@@ -36,7 +36,7 @@ _Visual summary of weight changes due to treatment_
 **Distribution Fitting**  
 _Comparison of fitted Weibull, Lognormal, and Gamma distributions for rats_  
 
-![Distribution Fitting](images/rats_fitdist.png)  
+![Distribution Fitting](images/rats_distribution_fitting.png)  
 
 <br>
 
